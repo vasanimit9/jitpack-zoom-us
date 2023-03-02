@@ -33,6 +33,7 @@ Note: You can use commit hash instead of Tag.
 
 | Tag           | Dependencies     | Notes                                                                    | 
 | :-----------: |:-----------------| :----------------------------------------------------------------------  |
+| 5.13.10.12577 | exoplayer:?      |                                                                          |
 | 5.13.1.11014  | exoplayer:?      |                                                                          |
 | 5.12.8.9901   | exoplayer:?      |                                                                          |
 | 5.12.2.9109   | exoplayer:?      |                                                                          |
